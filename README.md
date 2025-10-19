@@ -46,7 +46,7 @@ Sample rows:
 1. Place `company_growth.csv` in `public/`.
 2. `npm install`
 3. `npm start`
-4. Open http://localhost:3000 and use the tabs (Bar | Scatter | Multi‑series).
+4. Open [http://localhost:3000](https://tv6nvw-3000.csb.app/) and use the tabs (Bar | Scatter | Multi‑series).
 
 ## File Structure
 ```bash
